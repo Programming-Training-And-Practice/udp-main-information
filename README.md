@@ -28,12 +28,22 @@
 
 
 ## Pros.
+* Smaller packets.
+* Less bandwidth.
+* Faster that TCP.
+* Stateless.
 
 
 
 
 
 ## Cons.
+* No acknowledgment.
+* No guaranteed delivery.
+* Connectionless.
+* No congestion control.
+* No ordered packages.
+* Security.
 
 
 
